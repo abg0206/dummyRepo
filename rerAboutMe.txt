@@ -1,3 +1,7 @@
 My name is Ronald.
 I am 29 years old. 
 I like to run.
+
+This is for my second commit 
+Learning to make a pull request
+#merge conflict survivor: part 2
